@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Kitchen no Floor
+Author: David Jeffries
+URL: https://poly.google.com/view/bA4XY4tu7d7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Sunny's Kitchen Design
+Author: Jerome Gray
+URL: https://poly.google.com/view/2V2ExA1VDW3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
